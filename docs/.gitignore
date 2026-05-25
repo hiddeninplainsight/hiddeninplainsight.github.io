@@ -1,0 +1,8 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# As per GitHub's recommendation for Jekyll GitHub Pages sites:
+Gemfile.lock
